@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-us-in-universe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Only Us In Universe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-universe/) |
+| **Get License** | [Obtain a Music License for Only Us In Universe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-universe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Just a steady heartbeat matching the rain
+> Your hand pulling closer, erasing the pain
+> No need to look back at the lights we outran
+> Right here in this moment, exactly as planned
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
