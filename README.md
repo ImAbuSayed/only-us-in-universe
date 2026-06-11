@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-us-in-universe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Only Us In Universe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-universe/) |
+| **Get License** | [License this song: Only Us In Universe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-us-in-universe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6147401a5fd5df7d8a058810f5549179c5a8f04e7f180f5f9ba54d85bbe6171f` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
